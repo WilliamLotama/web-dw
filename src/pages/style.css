@@ -1,0 +1,40 @@
+label {
+  color: white !important;
+}
+.col-md-6 {
+  color: white;
+}
+
+.text-color {
+  color: white !important;
+}
+
+.col-md-4 h4 {
+  color: #f74d4d;
+}
+
+.col-md-4 p {
+  color: white !important;
+}
+.col-md-6 p {
+  color: white !important;
+}
+.header-text {
+  color: #f74d4d !important;
+}
+.list-item {
+  color: white;
+}
+.text-item {
+  color: white;
+}
+
+.ButtonAdd {
+  width: 100px;
+  margin-bottom: 15px;
+  background-color: #232323;
+  padding: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 4px 4px 4px;
+}
